@@ -5,15 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "dark" # "default" "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
-title                    : "My Blog"
+title                    : "Soft-war engineering"
 title_separator          : "-"
 name                     : "Ovidiu Dolha"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "About ongoing and exhausting trials when developing software."
+url                      : "https://odolha.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : odolha/odolha.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
